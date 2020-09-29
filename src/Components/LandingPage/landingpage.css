@@ -1,0 +1,31 @@
+.landingpage-container{
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #bbbdf6;
+    align-items: center;
+}
+.landingpage-title{
+    font-family: 'Fredoka One', cursive;
+    font-size: 5rem;
+    color: black;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    text-shadow: 0 0 3rem white;
+}
+.landingpage-image{
+    height: 50vh !important;
+}
+.landingpage-link{
+    transition: transform 1s;
+    padding: 2rem;
+}
+.landingpage-link:hover{
+    transform: scale(1.1);
+}
+.category{
+    font-family: 'Fredoka One', cursive;
+
+}
+@media screen and (max-width: 900px){
+
+}

@@ -1,0 +1,13 @@
+.volunteer-container{
+    height: 100vh;
+    background-color: #bbbdf6;
+    align-items: center;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+.volunteer-title{
+    padding-top: 3rem;
+}
+.breadcrumb{
+    background-color: transparent !important;
+}
